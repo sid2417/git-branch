@@ -3,3 +3,5 @@ this is first commit in mainbranchtoduplexbranch
 Inside stairs
 with glassylook
 outside swimmingpool
+garden
+playchamber
